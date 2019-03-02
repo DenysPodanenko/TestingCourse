@@ -1,0 +1,5 @@
+﻿  GetTrains.cpp
+  Source.cpp
+c:\users\comp\source\repos\testing6\testing6\source.cpp(27): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Testing6.vcxproj -> C:\Users\COMP\source\repos\Testing6\Debug\Testing6.exe
