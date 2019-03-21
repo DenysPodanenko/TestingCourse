@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\comp\source\repos\testingm2_14\testingm2_14\source.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\comp\source\repos\testingm2_14\testingm2_14\source.cpp(48): warning C4018: '>': signed/unsigned mismatch
+  TestingM2_14.vcxproj -> C:\Users\COMP\source\repos\TestingM2_14\Debug\TestingM2_14.exe
